@@ -41,10 +41,14 @@ function selectSort($arr)
     return $arr;
 }
 
-$numberArr = array(122, 2, 3, 45, 4, 52, 4, 1, 32, 333);
+/*生成排序数组*/
+$numberArr = [];
+for ($i = 0; $i < 20; $i++) {
+    $numberArr[] = rand(1, 10000);
+}
 
-/*print_r($numberArr);
-echo "<br>";*/
+print_r($numberArr);
+echo '<br>';
 
 //类使用方法介绍
 $time=new runTime();

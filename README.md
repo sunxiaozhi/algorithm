@@ -1,9 +1,7 @@
-##algorithm -- 算法
-
+## algorithm -- 算法
 收集常用算法
 
 ## sort
-
 
 - [bubbleSort](https://github.com/sunxiaozhi/algorithm/blob/master/bubbleSort.php)：冒泡排序
 - [selectSort](https://github.com/sunxiaozhi/algorithm/blob/master/selectSort.php)：选择排序

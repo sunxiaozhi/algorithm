@@ -67,7 +67,7 @@ b )、可变空间。这部分空间主要包括动态分配的空间，以及�
 
 排序算法可以分为内部排序和外部排序，内部排序是数据记录在内存中进行排序，而外部排序是指在排序期间全部对象太多，不能同时存放在内存中，必须根据排序过程的要求，不断在内，外存间移动的排序。常见的内部排序算法有：插入排序、希尔排序、选择排序、冒泡排序、归并排序、快速排序、堆排序、基数排序等。用一张图概括：
 
-![justjavac微信公众帐号](http://justjavac.com/assets/images/weixin-justjavac.jpg)
+![排序算法图](https://github.com/sunxiaozhi/algorithm/blob/master/image/sort_image.png)
 
 - [bubbleSort](https://github.com/sunxiaozhi/algorithm/tree/master/bubbleSort)：冒泡排序
 - [selectSort](https://github.com/sunxiaozhi/algorithm/tree/master/selectSort)：选择排序

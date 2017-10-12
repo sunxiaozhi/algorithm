@@ -9,7 +9,7 @@
  * Date: 2017/10/10
  * Time: 16:13
  */
-include_once 'runTime.php';
+include_once '../runTime.php';
 
 function quickSort($arr)
 {

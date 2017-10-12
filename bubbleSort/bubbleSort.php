@@ -9,7 +9,7 @@
  * Date: 2017/9/25
  * Time: 10:16
  */
-include_once 'runTime.php';
+include_once '../runTime.php';
 
 function bubbleSortOne($arr)
 {

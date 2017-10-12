@@ -55,8 +55,8 @@ function bubbleSortTwo($arr)
 
 /*生成排序数组*/
 $numberArr = [];
-for ($i = 0; $i < 20; $i++) {
-    $numberArr[] = rand(1, 10000);
+for ($i = 0; $i < 10; $i++) {
+    $numberArr[] = rand(1, 100);
 }
 
 print_r($numberArr);

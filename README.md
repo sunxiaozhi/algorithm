@@ -3,10 +3,10 @@
 
 ## sort
 
-- [bubbleSort](https://github.com/sunxiaozhi/algorithm/blob/master/bubbleSort.php)：冒泡排序
-- [selectSort](https://github.com/sunxiaozhi/algorithm/blob/master/selectSort.php)：选择排序
-- [insertSort](https://github.com/sunxiaozhi/algorithm/blob/master/insertSort.php)：插入排序
-- [quickSort](https://github.com/sunxiaozhi/algorithm/blob/master/quickSort.php)：快速排序
+- [bubbleSort](https://github.com/sunxiaozhi/algorithm/tree/master/bubbleSort)：冒泡排序
+- [selectSort](https://github.com/sunxiaozhi/algorithm/tree/master/selectSort)：选择排序
+- [insertSort](https://github.com/sunxiaozhi/algorithm/tree/master/insertSort)：插入排序
+- [quickSort](https://github.com/sunxiaozhi/algorithm/tree/master/quickSort)：快速排序
 
 ## function
 

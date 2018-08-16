@@ -9,6 +9,8 @@
  * Date: 2017/9/25
  * Time: 10:16
  */
+header("Content-type: text/html; charset=utf-8"); 
+
 include_once '../runTime.php';
 
 function bubbleSortOne($arr)

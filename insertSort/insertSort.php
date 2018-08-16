@@ -9,6 +9,8 @@
  * Date: 2017/10/10
  * Time: 15:05
  */
+header("Content-type: text/html; charset=utf-8"); 
+
 include_once '../runTime.php';
 
 function insertSort($arr)

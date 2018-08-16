@@ -10,6 +10,8 @@
  * Time: 11:11
  */
 
+header("Content-type: text/html; charset=utf-8"); 
+
 include_once '../runTime.php';
 
 function selectSort($arr)
